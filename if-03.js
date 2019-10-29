@@ -1,11 +1,10 @@
 //TODO: Впишите имя функции из задания вместо ...
 //TODO: Добавьте правильные параметры
 //TODO: Напишите функцию
-
 var max1 = 0
 var max2 = 0
 
-function ...(){
+function f(a,b,c,d){
     if (a > b){
         max1 = a
     }
@@ -26,4 +25,4 @@ function ...(){
     }
 }
 
-module.exports = ...;
+module.exports = f;
